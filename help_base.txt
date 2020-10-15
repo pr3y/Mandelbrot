@@ -1,0 +1,8 @@
+512   512   255   -1.5   0.7   -1.0   1.0
+|      |     |      |     |      |     |-maxImaginary
+|      |     |      |     |      |-minImaginary
+|      |     |      |     |-maxReal value(valor de variavel maxReal)
+|      |     |      |-minReal value(valor de variavel minReal)
+|      |     |-Image Aplha (transparencia da imagem)
+|      |-Image Height (altura da imagem)
+|-Image Width(largura da imagem)
