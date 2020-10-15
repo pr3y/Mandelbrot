@@ -1,5 +1,5 @@
 # Mandelbrot
-- Programa em C++ para gerar um mandelbrot em uma imagem .ppm
+- Programa em C++ para gerar um mandelbrot colorido ou preto e branco em uma imagem .ppm
 - O arquivo de configuração padrão eh o "base.txt" , para entender melhor os parametros desse arquivo , leia o "help_base.txt"
 
 # Compilar
