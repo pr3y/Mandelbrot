@@ -1,6 +1,6 @@
 # Mandelbrot
--Programa em C++ para gerar um mandelbrot em uma imagem .ppm
--O arquivo de configuração padrão eh o "base.txt" , para entender melhor os parametros desse arquivo , leia o "help_base.txt"
+- Programa em C++ para gerar um mandelbrot em uma imagem .ppm
+- O arquivo de configuração padrão eh o "base.txt" , para entender melhor os parametros desse arquivo , leia o "help_base.txt"
 
 # Compilar
 ```bash
