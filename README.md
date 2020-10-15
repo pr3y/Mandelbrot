@@ -18,4 +18,4 @@ g++ main.cpp -o mandelbrot
 
 
 
-### em breve, binario do ruindows
+### em breve, binario (release) no ruindows
