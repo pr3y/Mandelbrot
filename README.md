@@ -4,7 +4,7 @@
 
 # Compilar
 ```bash
-g++ main.cpp -o mandelbrot
+g++ -o mandelbrot main.cpp -L/usr/X11/lib -lX11 -lstdc++
 ```
 # Executar
 ```bash
